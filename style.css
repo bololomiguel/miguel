@@ -13,4 +13,5 @@ ul {
  font-size: 40px; 
  color: white; 
  gap: 28px; 
+ text-transform: uppercase;
 }
