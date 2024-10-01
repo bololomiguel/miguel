@@ -10,5 +10,7 @@ justify-content: center;
 ul {
  display: flex;
  list-style: none;
- font-size: 40px;   
+ font-size: 40px; 
+ color: white; 
+ gap: 28px; 
 }
