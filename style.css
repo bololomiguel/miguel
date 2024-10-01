@@ -1,4 +1,10 @@
-body{
-    background-color: #e94a00;
-    background-image: linear-gradient(160deg, #42e900bd 0%, #48b151 100%);
+body{background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    
+  
+}
+
+header {
+    display: flex;
+
 }
