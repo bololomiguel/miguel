@@ -7,11 +7,11 @@ header {
 justify-content: center;
 }
 
-ul {
- display: flex;
- list-style: none;
- font-size: 45px; 
- color: white; 
- gap: 35px; 
- text-transform: uppercase;
+.nav-lista {
+   display: flex;
+   list-style: none;
+   font-size: 45px; 
+   color: white; 
+   gap: 35px; 
+   text-transform: uppercase;
 }
