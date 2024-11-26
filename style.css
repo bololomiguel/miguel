@@ -21,3 +21,41 @@ justify-content: center;
     background-color: rgb(0, 0, 0);
     color: rgb(5, 245, 225);
 }
+
+
+section{
+    width: 100%;
+    pedding: left 8%;
+
+}
+secao{
+    pedding-right: 8%;
+    pedding-top: 2%;
+}
+
+ .moldura-vídeos{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content:space-around ;
+    list-style:none;
+
+}
+
+.vídeo{
+    flex: 1 1 30%;
+    margin: 10px;
+
+}
+
+.video iframe{
+   width:100%;
+   height:auto;
+   border-radius 15px;
+
+}
+
+*{
+    margin-top: 0;
+    peddding:0;
+}
+
