@@ -25,12 +25,12 @@ justify-content: center;
 
 section{
     width: 100%;
-    pedding: left 8%;
+    padding: left 8%;
 
 }
 secao{
-    pedding-right: 8%;
-    pedding-top: 2%;
+    padding-right: 8%;
+    padding-top: 2%;
 }
 
  .moldura-vídeos{
@@ -50,12 +50,12 @@ secao{
 .video iframe{
    width:100%;
    height:auto;
-   border-radius 15px;
+   border-radius: 15px;
 
 }
 
 *{
     margin-top: 0;
-    peddding:0;
+    padding:0;
 }
 
