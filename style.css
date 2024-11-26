@@ -28,12 +28,12 @@ section{
     padding: left 8%;
 
 }
-secao{
+.secao{
     padding-right: 8%;
     padding-top: 2%;
 }
 
- .moldura-vídeos{
+ .moldura_vídeos{
     display: flex;
     flex-wrap:wrap ;
     justify-content:space-around ;
